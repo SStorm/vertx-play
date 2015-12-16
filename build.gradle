@@ -13,7 +13,6 @@ allprojects {
 
 dependencies {
     compile("io.vertx:vertx-core:3.1.0")
-    compile("io.vertx:examples-utils:3.1.0")
 }
 
 def resolveVersion() {
